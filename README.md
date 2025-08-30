@@ -71,6 +71,7 @@ Deploy as a web app for easier access.
 
 Eshani Ranjan
 📍 Ranchi, Jharkhand
+
 📧 eshaniranjan2303@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/eshani-ranjan-750169260 
